@@ -20,7 +20,7 @@ $ npm config set python python2.7
 ### Install
 
 ```
-$ git clone https://github.com/MaherBTA/santim
+$ git clone https://github.com/apnsantim/APN.git
 $ cd santim
 $ npm install
 ```
