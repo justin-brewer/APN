@@ -21,7 +21,7 @@ $ npm config set python python2.7
 
 ```
 $ git clone https://github.com/apnsantim/APN.git
-$ cd santim
+$ cd APN
 $ npm install
 ```
 
