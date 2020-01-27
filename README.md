@@ -1,5 +1,32 @@
 # Run Santim node and Connect to the Network
 
+## Docker Install
+
+### Local Environment
+
+* Install Docker Desktop
+```
+$ git clone https://github.com/justin-brewer/APN.git
+$ cd APN
+$ git checkout -b docker-config
+$ docker build .
+$ docker images 
+    # copy "IMAGE ID" of newest image
+$ source docker-utils.sh
+$ docker-run <IMAGE ID>
+$ docker ps 
+    # copy "NAMES" of your running container
+$ docker exec -it <container name> bash
+$ cd myApp
+$ npm start
+```
+
+* See console output and errors
+
+
+###\* The following is from the source repository and not applicable to this branch. The above steps should replace it.
+
+
 ## Setup
 
 ### Pre-install
