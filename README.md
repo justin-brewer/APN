@@ -6,7 +6,7 @@
 
 * Install Docker Desktop
 ```
-$ git clone https://github.com/justin-brewer/APN.git
+$ git clone <this repository>
 $ cd APN
 $ git checkout -b docker-config
 $ docker build .
@@ -24,7 +24,7 @@ $ npm start
 * See console output and errors
 
 
-###\* The following is from the source repository and not applicable to this branch. The above steps should replace it.
+### The following is from the source repository and not applicable to this branch. The above steps should replace it.
 
 
 ## Setup
