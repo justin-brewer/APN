@@ -16,7 +16,7 @@
       "syncLimit":180,
       "cycleDuration":15,
       "maxRejoinTime":20,
-      "seedList":"http://102.133.238.157:4000/api/seednodes",
+      "seedList":"http://localhost:4000/api/seednodes",
       "difficulty":2,
       "queryDelay":1,
       "netadmin":"758b1c119412298802cd28dbfa394cdfeecc4074492d60844cc192d632d84de3",
@@ -35,9 +35,9 @@
       "amountToScale":1
    },
    "ip":{
-      "externalIp":"197.0.54.113",
+      "externalIp":"localhost",
       "externalPort":9001,
-      "internalIp":"197.0.54.113",
+      "internalIp":"localhost",
       "internalPort":9005
    },
    "network":{
