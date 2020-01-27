@@ -8,7 +8,6 @@
 ```
 $ git clone <this repository>
 $ cd APN
-$ git checkout -b docker-config
 $ docker build .
 $ docker images 
     # copy "IMAGE ID" of newest image
